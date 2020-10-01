@@ -2,7 +2,7 @@
 Learning Python
 
 # calculater.py 
-Its Gui based calculater for calculations
+Its Gui based calculater for calculations. It is for basic as well as complex calculations.
 
 # counter.py
 Gui based counter
